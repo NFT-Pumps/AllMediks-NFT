@@ -23,11 +23,11 @@
       v: 28
     }
   },
-  '0x538ad846530fD23aD4210c31A33929811C9A1A47': {
+  '0xc27BAD7e17B76edA701EF98dB10b7318f29C1497': {
     q: 20,
     whitelistClaimPass: {
-      r: '0x36bd447cde648b6f23677804284181ebce9ca7fd715dd824bcfd00e340bb4bae',
-      s: '0x787cb11f38b960cead1badf908bffddb67fb6ea5d450ffa68134c3d762de5b6e',
+      r: '0x8e3cad6984dd93cf590b7a6c97839d713bfbe33d76f7a62ee973692845a5031e',
+      s: '0x31d32a2516befb5be1257958a5fd275d3831b7d4845c99f28f4cc8950eef99f4',
       v: 27
     }
   },
